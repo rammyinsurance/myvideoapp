@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Simple WebRTC Messenger",
   "scripts": {
-    "prestart": "npm install --global windows-build-tools && npm i",
     "start": "node server.js"
   },
   "keywords": [
